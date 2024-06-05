@@ -1,4 +1,3 @@
-```markdown
 # Audiobooks Divertidos!⭐
 
 ## 📒 Descrição
@@ -18,4 +17,3 @@ O resultado foi um audiobook que imita as narrações de histórias voltadas par
 
 ## 💭 Reflexão 
 O projeto me mostrou a utilidade que a IA pode ter para coisas do dia-a-dia, como ajudar uma crinça a se entreter.
-```
